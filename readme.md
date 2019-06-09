@@ -1,6 +1,6 @@
 # Codeigniter dengan penerapan HMVC (Bahasa Indonesia)
 
-##Tutorial
+## Tutorial
 
 ### Kebutuhan Sistem
 
@@ -14,7 +14,7 @@ kebutuhan yang digunakan oleh sistem:
 clone project dengan :
 
 ```sh
-https://github.com/indrijunanda/codeigniter-hmvc.git
+git clone https://github.com/indrijunanda/codeigniter-hmvc.git
 ```
 
 fokus pada *path* berikut ini 
