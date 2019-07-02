@@ -17,6 +17,8 @@ clone project dengan :
 git clone https://github.com/indrijunanda/codeigniter-hmvc.git
 ```
 
+atau kamu bisa langsung download berbentuk **.zip**
+
 fokus pada *path* berikut ini 
 
 - jika kamu ingin mengubah tampilan temukan pada : 
