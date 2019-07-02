@@ -40,4 +40,4 @@ application/modules/Welcome/controllers/Welcome.php
 
 
 
-developed by `indrijunanda`
+developed by **[`indrijunanda`](https://indrijunanda.gitlab.io/)**
