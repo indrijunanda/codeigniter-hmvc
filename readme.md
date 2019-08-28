@@ -34,12 +34,13 @@ application/modules/Welcome/controllers/Welcome.php
 ```
 
 
--------------------
 
+
+-------------------
 ### Cheers Up!
 
 *Happy Developing and Learning* 💪
 
 
 
-developed by **[`indrijunanda`](https://indrijunanda.gitlab.io/)**
+Regards 😁😁
